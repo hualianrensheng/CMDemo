@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CMDemo</string>
+    <string name="cmstepview">CMStepView</string>
 </resources>

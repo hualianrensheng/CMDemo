@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--TextView 步数进度效果-->
+    <declare-styleable name="CMStyepView">
+        <attr name="cmOuterColor" format="color"></attr>
+        <attr name="cmInnerColor" format="color"></attr>
+        <attr name="cmBorderWidth" format="dimension"></attr>
+        <attr name="cmStepTextSize" format="dimension"></attr>
+        <attr name="cmStepTextColor" format="color"></attr>
+    </declare-styleable>
+
+</resources>
