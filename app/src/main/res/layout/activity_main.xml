@@ -18,4 +18,14 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 
+    <TextView
+        android:id="@+id/tv_color_track_fragment"
+        android:text="ColorTrackTextView"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="@id/tv_cm_step"
+        app:layout_constraintTop_toBottomOf="@id/tv_cm_step"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
